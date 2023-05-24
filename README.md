@@ -4,4 +4,4 @@
 -->
 ![Amadews23' Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amadews23&langs_count=8&layout=compact)
 
-(https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amadews23&langs_count=8&layout=compact)
+(https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amadews23&langs_count=10&layout=compact)
