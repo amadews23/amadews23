@@ -5,4 +5,3 @@
 -->
 ![Amadews23' Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amadews23&&theme=react&line_height=40&hide=css)
 
-![ScreenShot](/amadews23/VfichaClientes/img/fichaClientes.png)
